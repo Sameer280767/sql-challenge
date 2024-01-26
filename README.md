@@ -8,7 +8,7 @@ Data Engineering
 >> though first_name, last_name, could potentially be NULL. However, for this data set, NOT NULL is used
 
 Data Analysis
->> One quesry namely queries.sql was written to answer data analysis questions
+>> One query namely queries.sql was written to answer data analysis questions
 >> Results for the 8 queries as below
 > 1. 300,024
 > 2. 36,150
